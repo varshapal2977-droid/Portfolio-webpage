@@ -1,4 +1,6 @@
 # Portfolio-webpage
+<img width="1879" height="2554" alt="image" src="https://github.com/user-attachments/assets/503cb0db-3b7f-46dc-a402-8fad4b545664" />
+
 Design and build a one-page responsive portfolio website that incorporates Flexbox, CSS Grid, media queries, and animations to create a polished and interactive layout. Use Flexbox to manage alignment and spacing efficiently, and apply CSS Grid to structure at least one section of the page
 This project is an enhanced version of the previous Lab 2 portfolio, upgraded using modern CSS techniques. The website contains clean sections including a Header, Hero, About, Skills, Projects, Contact, and Footer. The goal is to create a polished, responsive, and visually appealing layout.
 Objectives
